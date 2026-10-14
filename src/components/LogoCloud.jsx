@@ -1,0 +1,3 @@
+export default function LogoCloud() {
+  return <section className="logo-cloud container-wide" aria-label="Fictional studio examples"><div className="logo-cloud-label">A HOME FOR STUDIOS WITH<br/>THEIR OWN WAY OF THINKING <span>↘</span></div><div className="logo-cloud-logos"><span className="client-logo softform">softform<span className="tiny-star">✳</span></span><span className="client-logo northline">NORTHLINE<span className="northline-circle"/></span><span className="client-logo atelier">atelier / 07</span><span className="client-logo common">common<span>ground</span></span></div><p>Imaginary studio names shown for design illustration, not endorsements.</p></section>;
+}
